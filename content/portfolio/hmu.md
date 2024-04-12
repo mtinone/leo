@@ -7,8 +7,6 @@ tags:
   - creative-nonfiction
   - lyric-essay
   - poetry
-  - happy-friday
-  - marina's-current-faves
 ---
 # HMU
 
