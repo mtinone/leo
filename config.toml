@@ -33,6 +33,7 @@ weight = 4
   postsOnHomePage = 5
   showProjectsList = false
   rss = true
+  colortheme = white
 
 [[params.social]]
   name = "ko-fi"
