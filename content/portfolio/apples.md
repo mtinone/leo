@@ -4,7 +4,7 @@ date: 2018-07-12T11:05:57.527Z
 categories:
   - null
 tags:
-  - creative-nonfiction
+  - creative-nonfiction;happy-friday
 ---
 # Apples
 
