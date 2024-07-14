@@ -2,7 +2,8 @@
 title: "Happy Friday (2018-2024): Marina's Email Newsletter "
 date: 2018-05-25T23:51:00.000Z
 categories: []
-tags: []
+tags:
+  - happy-friday
 ---
 # Happy Friday (2018-2024)
 
