@@ -1,5 +1,5 @@
 ---
-title: "To Happier Days (2024-current): Marina's Email Newsletter"
+title: To Happier Days
 date: 2024-09-21T02:34:41.654Z
 ---
 # To Happier Days (2024-current)
