@@ -27,7 +27,7 @@ weight = 4
     startLevel = 2
 
 [params]
-  description = "Marina writes about youth in literature, identification of self, and responsibility for the future."
+  description = "Marina writes about self-identity and responsibility for the future."
   mainSection = "portfolio"
   showAllPostsOnHomePage = false
   postsOnHomePage = 5
