@@ -8,6 +8,6 @@ tags: []
 
 *Happy Friday* was an email series of flash pieces sent weekly on Fridays. The first "Happy Friday" email was sent on May 25, 2018. This newsletter series retired in March 2024. Its sequel is *To Happier Days.* 
 
-(subscribe to the new email series) (selected Happy Friday entries were later published; they can be found [here](https://www.mtinone.com/tags/happy-friday/))
+(selected Happy Friday entries were later published; they can be found [here](https://www.mtinone.com/tags/happy-friday/))
 
 ![]()
